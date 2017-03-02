@@ -1,0 +1,38 @@
+
+html, body {
+	height:100%;
+} 
+
+ .message {
+ 	background-color: white;
+ }
+
+ .wrapper {
+ 	background-color: #000, 0.3;
+ }
+
+h1 {
+ 	font-family: lato;
+ 	text-transform: uppercase;
+ }
+
+
+h3 {
+ 	font-family: lato;
+ }
+
+ p {
+ 	font-family: lato;
+ }
+
+
+
+
+ .modal {
+ 	padding-top: 200px;
+ }
+
+ .information {
+    display: flex;
+    align-items: center;
+ }

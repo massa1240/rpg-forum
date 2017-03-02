@@ -1,0 +1,56 @@
+
+html, body {
+	height:100%;
+} 
+
+ .message {
+ 	background-color: white;
+ }
+
+ .wrapper {
+ 	background-color: #000, 0.3;
+ }
+
+h1 {
+ 	font-family: lato;
+ 	text-transform: uppercase;
+ 	color: #fff;
+ }
+
+
+h3 {
+ 	font-family: lato;
+ 	color: #232736;
+ }
+
+ p {
+ 	font-family: lato;
+ 	color: #fff;
+ }
+
+ .legenda {
+ 	color: #232736;
+ 	font-style: italic;
+ 	
+ }
+
+ .modal {
+ 	padding-top: 200px;
+ }
+
+ .information {
+    display: flex;
+    align-items: center;
+ }
+
+body {
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#7a635d+0,332921+100 */
+background: #7a635d; /* Old browsers */
+background: -moz-linear-gradient(top, #7a635d 0%, #332921 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top, #7a635d 0%,#332921 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom, #7a635d 0%,#332921 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7a635d', endColorstr='#332921',GradientType=0 ); /* IE6-9 */
+
+
+
+}
